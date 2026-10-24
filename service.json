@@ -1,7 +1,7 @@
 {
     "id": "sinch",
     "name": "Sinch SMS",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Send SMS through Sinch's SMS REST API. Admin-editable credentials and sender, plus a test-text button. A capability for core and other services: answers the sms.providers and sms.send hooks",
     "category": "sms",
     "author": {
