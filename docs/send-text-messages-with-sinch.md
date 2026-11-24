@@ -1,6 +1,7 @@
 ---
 title: Send text messages with Sinch
 tags: sms, text messages, sinch, notifications, orders
+page: admin/settings/sinch
 ---
 
 **Sinch** lets your site send text messages, such as order updates. The service only sends. Whatever wants to text, such as the shop, asks it to. Each text is charged by Sinch.
